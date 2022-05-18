@@ -13,7 +13,7 @@ public class Testing : MonoBehaviour
 
     public string[] s = new string[]
     {
-        "Hey lol:Person",
+        "Hey lol:hhh",
         "i come to make an announcement",
         "ur mom is a fat ass mf",
         "she pissed on my fucking wife",
